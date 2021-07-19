@@ -1,0 +1,122 @@
+
+@media only screen and (max-width: 991px) {
+    .category-page .bg-white .sub-category-menu ul li {
+        flex: 50%;
+        max-width: 50%;
+    }
+    .logo-header .search-box {
+        border: 1px solid rgb(0, 0, 0);
+        top: 0px;
+        right: 0px;
+        left: 0px;
+      }
+      .logo-header .helpful-links {
+        position: relative;
+        top: 0px;
+}
+      .helpfullinks {
+        right: 0px;
+        left: 0px;
+    }
+    .mainmenu-area .core-nav .wrap-core-nav-list.right {
+        height: 164px;
+    }
+}   
+@media only screen and (max-width: 767px) {
+
+    .category-page .bg-white .sub-category-menu ul li {
+        flex: 100%;
+        max-width: 100%;
+    }
+    .order-tracking-content .tracking-form{
+        display: flow-root;
+    }
+    .order-tracking-content .tracking-form input{
+        height: 40px;
+    }
+    .order-tracking-content .tracking-form .mybtn1 {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .order-tracking-content .tracking-form {
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+    .top-header .content{
+        display: flow-root;
+        justify-content: center;
+        text-align: center;
+    }
+    .top-header .content .left-content {
+        display: inline-block;
+    }
+    .top-header .content .right-content {
+        display: inline-block;
+        padding-bottom: 2px;
+    }
+      .logo-header .search-box {
+        border: 1px solid rgb(0, 0, 0);
+        top: 0px;
+        right: 0px;
+        left: 0px;
+      }
+      .logo-header .helpful-links {
+        position: relative;
+        top: 0px;
+}
+      .helpfullinks {
+        right: 0px;
+        left: 0px;
+    }
+
+}
+
+
+@media only screen and (max-width: 575px) {
+    .checkout-area .content-box .content .order-area .order-item .product-img img {
+        width: 90px;
+    }
+    .logo-header .search-box .categori-container .categoris
+    {
+        line-height: 40px!important;
+    }
+    .logo-header .search-box {
+        border: 1px solid rgb(0, 0, 0);
+        top: 0px;
+        right: 0px;
+        left: 0px;
+
+      }
+      .logo-header .helpful-links {
+        position: relative;
+        top: 0px;
+}
+      .helpfullinks {
+        right: 0px;
+        left: 0px;
+    }
+
+}
+
+@media only screen and (max-width: 1366px) {
+
+    .logo-header .search-box .categori-container .categoris
+    {
+        line-height: 39px!important;
+    }
+    .logo-header .search-box {
+        border: 1px solid rgb(0, 0, 0);
+        top: 0px;
+        right: 0px;
+        left: 0px;
+      }
+      .logo-header .helpful-links {
+        position: relative;
+        top: 0px;
+}
+      .helpfullinks {
+        right: 0px;
+        left: 0px;
+    }
+
+}
